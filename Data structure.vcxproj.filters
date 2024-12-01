@@ -18,7 +18,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Data_is_what.md">
+    <None Include="Data_Knowledge\Data_is_what.md">
       <Filter>Konwledge of Data</Filter>
     </None>
   </ItemGroup>
