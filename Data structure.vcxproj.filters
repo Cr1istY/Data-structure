@@ -22,4 +22,17 @@
       <Filter>Konwledge of Data</Filter>
     </None>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="List\List.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="List\main.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="List\List.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>

@@ -129,6 +129,13 @@
   <ItemGroup>
     <None Include="Data_Knowledge\Data_is_what.md" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="List\List.c" />
+    <ClCompile Include="List\main.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="List\List.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
