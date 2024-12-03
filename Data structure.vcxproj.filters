@@ -21,6 +21,7 @@
     <None Include="Data_Knowledge\Data_is_what.md">
       <Filter>Konwledge of Data</Filter>
     </None>
+    <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="List\List.c">
