@@ -6,4 +6,4 @@
 
 **相遇即是缘分。**
 
-**Make the wolrd better!**
+**Make the world better!**
